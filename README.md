@@ -1,4 +1,4 @@
 # demo-repo
 this is demo repository.
 <br>
-Author - Sameerkumar Yadav
+Author - Sameerkumar
